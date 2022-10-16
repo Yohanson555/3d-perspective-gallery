@@ -14,7 +14,7 @@ Created with course: https://www.youtube.com/watch?v=GLbI7BGdQ3o&t=57s
 
 - JS: audio actions. 
 - JS: `window.onfocus` & `window.onblur` events
-- JS: using of `audioBtn.classList`
+- JS: using of `classList` prop
 
 ### Demo
 
