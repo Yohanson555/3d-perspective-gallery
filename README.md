@@ -18,4 +18,4 @@ Created with course: https://www.youtube.com/watch?v=GLbI7BGdQ3o&t=57s
 
 ### Demo
 
-You casn check it on GitHub Pages here: [https://yohanson555.github.io/3d-perspective-gallery/]()
+You casn check it on GitHub Pages here: [](https://yohanson555.github.io/3d-perspective-gallery/)
